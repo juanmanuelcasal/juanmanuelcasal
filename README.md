@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Manuel Casal
 
-<!--
-**juanmanuelcasal/juanmanuelcasal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación enfocado en Python, SQL y análisis de datos.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Python
+- SQL / SQLite
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Proyectos
+- Sistema de Inventario en Python
+
+## 📊 Actualmente aprendiendo
+- Data Analytics
+- Business Intelligence
+
+## 📫 Contacto
+- LinkedIn: www.linkedin.com/in/juan-manuel-casal-3827a413a 
